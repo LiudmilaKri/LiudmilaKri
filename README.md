@@ -1,4 +1,4 @@
-[![Header](https://github.com/LiudmilaKri/LiudmilaKri/blob/main/assets/1.png)]
+![Header](https://github.com/LiudmilaKri/LiudmilaKri/blob/main/assets/1.png)
 
 ## I'm beginner QA engineer
 
